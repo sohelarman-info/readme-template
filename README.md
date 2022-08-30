@@ -109,7 +109,7 @@ https://www.lamcoder.com
 ### Images Syntax  
 <img src="download.jpg" width="100%">  
 
-![Image](download.jpg)  
+![Image](https://pbs.twimg.com/profile_banners/885095278218543105/1657819745/1500x500)  
 
 
 ### Emoji set (Just Copy & Paste)
